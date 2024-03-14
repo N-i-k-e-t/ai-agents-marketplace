@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 15px;
+}
+
+#hero {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Add more styles for sections, navigation, etc. */
+
+
+.logo-container {
+    display: flex; /* Center the logo if needed */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+#hero {
+    display: flex;
+    align-items: center; /* Vertically centers content */
+}
+
+#hero .content {
+    flex: 1; /* Allow content and image to share space equally */
+    text-align: center;
+    padding: 20px;
+}
+
+/* ... Add more styles for sections, navigation, etc. ... */
